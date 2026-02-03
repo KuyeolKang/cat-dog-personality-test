@@ -10,18 +10,5 @@
   "upload_source_maps": true,
   "assets": {
     "not_found_handling": "single-page-application"
-  },
-  "d1_databases": [
-    {
-      "binding": "DB",
-      "database_name": "019c215d-6ede-7c06-95a0-54572f50c833",
-      "database_id": "019c215d-6ede-7c06-95a0-54572f50c833"
-    }
-  ],
-  "r2_buckets": [
-    {
-      "binding": "R2_BUCKET",
-      "bucket_name": "019c215d-6ede-7c06-95a0-54572f50c833"
-    }
-  ]
+  }
 }
